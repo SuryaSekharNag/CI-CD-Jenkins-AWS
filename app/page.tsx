@@ -3,7 +3,7 @@ export default function Home() {
     <main>
       <h1>?? CI/CD Pipeline Working!</h1>
       <p>Deployed using Jenkins + AWS EC2</p>
-      <h3>Let' Do It Together!!!</h3>
+      <h3>Let' Do It Togetherrr!!!</h3>
     </main>
   );
 }
